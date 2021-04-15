@@ -17,7 +17,7 @@ main{
 article{
     display: flex;
     align-items: center;
-    padding: 8px 12px;
+    padding: 30px 12px;
     border: 2px solid white;
     border-radius: 8px;
     margin:0;
@@ -61,8 +61,8 @@ p{
     padding: 8px 22px;
 }
 #video{
-    padding-top: 15px;
-    margin-top:20px;
+    padding-top: 40px;
+    margin-top:2px;
 
 }
 .navbar{
