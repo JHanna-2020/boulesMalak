@@ -11,20 +11,21 @@ body{
     margin-left: 40%;
 }
 .cat1{
-    border: 3px solid gray;
-    border-radius: 50%;
+    /* border: 3px solid gray;
+    border-radius: 50%; */
     width: 150px;
     height: 150px;
     text-align:center;
     margin-left: auto;
     margin-right: auto;
     display:inline-block;
-    /* background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fstnoufer.files.wordpress.com%2F2015%2F01%2Fcoptic_cross_7.jpg&imgrefurl=https%3A%2F%2Fbishoysblog.com%2Fcoptic-crosses%2F&tbnid=xp-ZsZb-iWJBsM&vet=12ahUKEwjMrtvO8_3vAhXEYqwKHWFtAIEQMygAegUIARDQAQ..i&docid=zhHneVlGlL7lkM&w=3508&h=2480&q=circular%20coptic%20cross%20image&ved=2ahUKEwjMrtvO8_3vAhXEYqwKHWFtAIEQMygAegUIARDQAQ"); */
+   
 }
 
 .heading{
     font-size: 1.5rem;  
     margin-top:40%;  
+   
     
 }
 .zoom:hover{
