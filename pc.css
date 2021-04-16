@@ -3,7 +3,7 @@ body{
     background-color: #eee;
 }
 header, section{
-    position:fixed;
+    /* position:fixed; */
     text-align: center;
     width: 560px;
     
@@ -11,13 +11,11 @@ header, section{
 section{
     top: 50px;
 }
-main{
-    padding: 370px 18px 10px;
-}
+
 article{
     display: flex;
     align-items: center;
-    padding: 30px 12px;
+    padding: 8px 12px;
     border: 2px solid white;
     border-radius: 8px;
     margin:0;
@@ -61,7 +59,7 @@ p{
     padding: 8px 22px;
 }
 #video{
-    padding-top: 40px;
+    /* padding-top: 40px; */
     margin-top:2px;
 
 }

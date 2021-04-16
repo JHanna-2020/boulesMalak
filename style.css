@@ -1,6 +1,9 @@
 body{
     text-align: center;
 }
+img{
+   float: left;
+}
 .navbar{
     background-color:aquamarine;
 }
@@ -18,8 +21,12 @@ body{
     text-align:center;
     margin-left: auto;
     margin-right: auto;
-    display:inline-block;
+    
+    display:inline;
    
+}
+.cat2{
+    margin-top:200px;
 }
 
 .heading{
