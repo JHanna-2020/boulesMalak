@@ -1,12 +1,23 @@
 body{
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 120px;
 }
-img{
-   float: left;
+
+a{
+    color: blue;
+}
+a:hover{
+    color:red;
+}
+#yt{
+    width: 171px;
+    height: 95px;
+    margin-bottom: 0
 }
 .navbar{
     background-color:aquamarine;
+    margin:0;
+    padding:0;
 }
 .cats{
     display: grid;
@@ -29,10 +40,13 @@ img{
 .cat2{
     margin-top:200px;
 }
+.cat3{
+    margin-top:100px;
+}
 
 .heading{
     font-size: 1.5rem;  
-    margin-top:40%;  
+    margin-top:0;
     cursor: pointer;
    
     
