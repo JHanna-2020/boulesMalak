@@ -8,6 +8,9 @@ header, section{
     width: 560px;
     
 }
+button{
+    cursor: pointer;
+}
 section{
     top: 50px;
 }
